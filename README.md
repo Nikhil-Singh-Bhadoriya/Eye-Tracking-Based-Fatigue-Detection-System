@@ -54,5 +54,3 @@ The system calculates the Eye Aspect Ratio (EAR) using facial landmarks detected
 ## 🤝 Contributing
 Feel free to fork this repository and contribute.
 
-## 📄 License
-This project is open-source and available under the MIT License.
